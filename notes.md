@@ -1,5 +1,13 @@
 # Notes
 
+Custom loadout:
+- Tchturns
+- Normalize
+- Sass
+
+Live reload for all.
+Weboack for all
+
 ## Guiding Principles
 
 ## Quotes
@@ -20,3 +28,9 @@
 
 [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md)
 
+## To Read:
+[Making bootstrap](https://medium.com/@fat/twitter-bootstrap-b95033c270af#.z2iuvx79y)
+[CSS3](http://www.css3.info/)
+[CSS Code Smell](http://csswizardry.com/2012/11/code-smells-in-css/)
+[Coyer Code Smell](https://www.smashingmagazine.com/2012/07/coding-qa-with-chris-coyier-code-smell-type-grid/)
+[Flex Box Bugs](https://github.com/philipwalton/flexbugs)

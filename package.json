@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/zindlerb/good_css/issues"
   },
-  "homepage": "https://github.com/zindlerb/good_css#readme"
+  "homepage": "https://github.com/zindlerb/good_css#readme",
+  "devDependencies": {
+    "babel-core": "^6.7.2",
+    "babel-loader": "^6.2.4",
+    "css-loader": "^0.23.1",
+    "html-loader": "^0.4.3",
+    "node-sass": "^3.4.2",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.0",
+    "tachyons": "^4.0.0-beta.12",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
 }
